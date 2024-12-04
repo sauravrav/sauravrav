@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sauravrav
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...React.js and D3.js
-- 💞️ I’m looking to collaborate on ...Web Development
+- 🌱 I’m currently learning ...Cloud Computing
+- 💞️ I’m looking to collaborate on ...App Development
 - 📫 How to reach me ...s.bhatta2383@gmail.com
 
 <!---
